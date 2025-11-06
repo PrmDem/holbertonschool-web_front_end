@@ -25,7 +25,7 @@ a:any-link {
 }
 
 .section-header {
-    position: var(--section-header-align);
+    text-align: var(--section-header-align);
 }
 
 .section-tagline {
