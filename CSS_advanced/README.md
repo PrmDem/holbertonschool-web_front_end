@@ -12,6 +12,6 @@ In this project, we learn how to use CSS to stylise a web page.
 
 ## Tasks
 ### General information
-__Number of tasks:__ 33
-__Completed:__ TBA
-__Passed:__ TBA
+__Number of tasks:__ 33<br/>
+__Completed:__ 33<br/>
+__Passed:__ 23<br/>
